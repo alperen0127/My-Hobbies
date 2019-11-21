@@ -4,3 +4,4 @@ Basketball
 Tennis
 E-Spor
 Racing
+Golf
