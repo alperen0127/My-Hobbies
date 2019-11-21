@@ -1,2 +1,4 @@
 youtube
 github
+msdn
+r10
